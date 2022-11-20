@@ -1,5 +1,5 @@
-fn main(){
-// Specify the data type "char"
+fn main() {
+    // Specify the data type "char"
 let character_1: char = 'S';
 let character_2: char = 'f';
    
